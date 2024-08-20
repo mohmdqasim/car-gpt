@@ -4,7 +4,7 @@ from agent import generate_stream, generate_response
 
 st.set_page_config(
     page_title="Car-GPT",
-    page_icon="💊",
+    page_icon="🚗",
     menu_items={
         'About': "This app is a prototype made for demo purposes. It is not meant for real life use. Do not take anything from this app as advice."
     }
